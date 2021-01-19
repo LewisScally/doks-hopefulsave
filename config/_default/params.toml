@@ -1,0 +1,29 @@
+title = "L Chat"
+titleSeparator = "-"
+titleAddition = "Modern Video Calling"
+description = "Fast and secure as standard"
+images = [ "doks.png" ]
+twitterSite = ""
+twitterCreator = "henkverlinde"
+facebookAuthor = "verlinde.henk"
+facebookPublisher = "verlinde.henk"
+ogLocale = "en_US"
+schemaType = "Organization"
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = ""
+schemaSection = ""
+siteLinksSearchBox = true
+themeColor = "#fff"
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [ 900, 800, 700, 600, 500 ]
+portraitPhotoWidths = [ 800, 700, 600, 500 ]
+lqipWidth = "20x"
+footer = """
+Built by OnDevs, powered by Netlify, and opensource.
+"""
+alert = false
+alertText = 'Like Doks? <a class="alert-link" href="https://github.com/h-enk/doks/stargazers">Star on GitHub</a>. Thanks!</a>'
+docsRepo = ""
+editPage = false
